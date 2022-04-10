@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://nick777-pixel.github.io/csb-epu1fd/static/css/main.15cdb455.chunk.css",
-    "main.js": "https://nick777-pixel.github.io/csb-epu1fd/static/js/main.209e9fa5.chunk.js",
-    "main.js.map": "https://nick777-pixel.github.io/csb-epu1fd/static/js/main.209e9fa5.chunk.js.map",
+    "main.js": "https://nick777-pixel.github.io/csb-epu1fd/static/js/main.11f72431.chunk.js",
+    "main.js.map": "https://nick777-pixel.github.io/csb-epu1fd/static/js/main.11f72431.chunk.js.map",
     "runtime-main.js": "https://nick777-pixel.github.io/csb-epu1fd/static/js/runtime-main.99dc8951.js",
     "runtime-main.js.map": "https://nick777-pixel.github.io/csb-epu1fd/static/js/runtime-main.99dc8951.js.map",
     "static/js/2.28261b92.chunk.js": "https://nick777-pixel.github.io/csb-epu1fd/static/js/2.28261b92.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.99dc8951.js",
     "static/js/2.28261b92.chunk.js",
     "static/css/main.15cdb455.chunk.css",
-    "static/js/main.209e9fa5.chunk.js"
+    "static/js/main.11f72431.chunk.js"
   ]
 }
